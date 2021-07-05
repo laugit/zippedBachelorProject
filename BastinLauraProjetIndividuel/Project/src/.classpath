@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/programmation/projet_individuel_laura/BastinLauraProjetIndividuel-master/master/Bin/Renoce_lib/junit-4.10.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

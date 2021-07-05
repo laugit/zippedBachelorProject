@@ -1,0 +1,10 @@
+/BackgroundSubtractor.class
+/BackgroundSubtractorKNN.class
+/BackgroundSubtractorMOG2.class
+/DenseOpticalFlow.class
+/DualTVL1OpticalFlow.class
+/FarnebackOpticalFlow.class
+/KalmanFilter.class
+/SparseOpticalFlow.class
+/SparsePyrLKOpticalFlow.class
+/Video.class

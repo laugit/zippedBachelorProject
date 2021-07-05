@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/hp/Desktop/programmation/projet_individuel"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="projet_individuel/src"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/log4j-1.2.15.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/programmation/projet_individuel_laura/Project/src/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/programmation/projet_individuel_laura/Legacy/opencv-331.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
